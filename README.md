@@ -1,4 +1,9 @@
-# [chainx.org](http://chainx.org)
+以下内容链接已过时，欢迎访问新社区：https://bbs.chainx.org
+
+-----
+
+# [DEPRECATED] [chainx.org](http://chainx.org)
+
 
 [chainx](http://chainx.org) 文章归档:
 
